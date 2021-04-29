@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #ff00ff;
+  --color-dark: #252525;
+}
+
+
+body {
+  font-size: 2em;
+  padding: 2em;
+  display: grid;
+  place-items: center;
+  font-family: 'Comic Sans MS', cursive;
+  background: var(--color-primary);
+  color: var(--color-dark);
+}
